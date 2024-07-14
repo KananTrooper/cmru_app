@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
+        "cmru",
         "nativewrappers"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
